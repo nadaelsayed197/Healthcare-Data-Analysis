@@ -40,4 +40,4 @@ In this phase, I focused on **data cleaning, preprocessing, exploratory data ana
 ---
 
 ✍️ **Author:** [Nada Elsayed]  
-🔗 Connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/nada-elsayed-7a2057331/)
+🔗 Connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/nada-elsayed-7a2057331/))
