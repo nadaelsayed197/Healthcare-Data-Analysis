@@ -27,6 +27,7 @@ In this phase, I focused on **data cleaning, preprocessing, exploratory data ana
 
 ## 📸 Example Visualizations
 ![Age Distribution](age_distribution.png)  
+
 ![Gender vs Medical Condition](gender_vs_medical_condition.png)
 
 ---
